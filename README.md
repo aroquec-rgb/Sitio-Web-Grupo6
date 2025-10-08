@@ -1,2 +1,2 @@
-# Sitio-Web-Grupo6
-Mi primer Sitio Web
+# Subir-Repositorio-Grupo6
+Mi primer Proyecto
